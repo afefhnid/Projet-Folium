@@ -37,8 +37,9 @@ Pour chaque établissement, récupérer également ses coordonnées GPS
 Question Bonus :
 Donner un définition vulgarisée de ces metrics/concepts de statistique:
 
--probabilité 
--moyenne / médiane
+-probabilité : La probabilité d'un événement est un nombre réel compris entre 0 et 1. Plus ce nombre est grand, plus le risque, ou la chance, que l'événement se produise est grand. 
+-moyenne : Quotient de la somme de plusieurs valeurs par leur nombre. total des notes/nb de notes = moyenne de la classe
+-médiane: 
 -espérance
 -Variance
 -écart-type
