@@ -39,8 +39,8 @@ Donner un définition vulgarisée de ces metrics/concepts de statistique:
 
 -probabilité : La probabilité d'un événement est un nombre réel compris entre 0 et 1. Plus ce nombre est grand, plus le risque, ou la chance, que l'événement se produise est grand. 
 -moyenne : Quotient de la somme de plusieurs valeurs par leur nombre. total des notes/nb de notes = moyenne de la classe
--médiane: 
--espérance
+-médiane: La médiane est la droite joignant un sommet d'un triangle au milieu du côté opposé. En statistiques, la médiane est le nombre qui partage une série statistique en deux parties de même effectif ; critère de position
+-espérance:L'espérance mathématique est une valeur statistique, utilisée en économie, notamment dans le domaine des jeux de hasard ou des assurances, qui consiste à faire la moyenne de probabilités pour déterminer si le résultat est équitable.
 -Variance
 -écart-type
 -quantile
